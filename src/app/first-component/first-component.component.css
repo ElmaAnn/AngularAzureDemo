@@ -1,0 +1,22 @@
+h1,
+h3 {
+  color: royalblue;
+  margin-bottom: 4vh;
+}
+
+#imageDiv {
+  background-color: gainsboro;
+}
+
+.my_image {
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  padding-left: 3vh;
+  height: 34vh;
+  width: 31vw;
+}
+
+h4 {
+  margin-top: 4vh;
+  color: steelblue;
+}
